@@ -1,12 +1,15 @@
 # Hi, I'm Abdul Rafay 👋
 
-3rd-year Economics student at IBA Karachi, passionate about data analytics and business intelligence.
+Fourth-year Economics student at IBA Karachi, passionate about data analytics and business intelligence.
 
-I work with **MySQL**, **Excel** (Power Query & Pivot Tables), and **Power BI** to turn raw data into clear business insights and interactive dashboards.
+I work with **MySQL**, **Excel** (Power Query & Pivot Tables), **Power BI** and **Python** to turn raw data into clear business insights and interactive dashboards.
 
 ---
 
 ## Projects
+
+**[Pakistan Banking Sector Performance Dashboard](https://github.com/rafay10abdul/Pakistan-banking-sector-dashboard)**
+Tracks and visualizes key financial health indicators of Pakistan's banking sector against SBP policy shifts and CPI inflation. Bridges a normalized MySQL backend with an enterprise-grade Power BI dashboard for strategic insights.
 
 **[Sales Performance Dashboard](https://github.com/rafay10abdul/sales-performance-dashboard)**
 Analyzed 51,290 global retail records to identify profit drivers and proved excessive discounting as the root cause of declining margins. Built a 3-page interactive Power BI dashboard.
@@ -18,7 +21,9 @@ Analyzed 1,470 employee records to identify attrition drivers. Found overtime em
 
 ## Tools & Skills
 
-`MySQL` `Excel` `Power Query` `Pivot Tables` `Power BI` `DAX` `EDA` `KPI Reporting`
+## Tools & Skills
+
+`MySQL` `Excel` `Power Query` `Pivot Tables` `Power BI` `DAX` `EDA` `KPI Reporting` `Data Modeling` `Star Schema` `Views` `CTEs` `Python` `Pandas` `NumPy` `Matplotlib` `Git` `GitHub`
 
 ---
 
