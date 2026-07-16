@@ -1,8 +1,8 @@
 # Hi, I'm Abdul Rafay 👋
 
-Fourth-year Economics student at IBA Karachi, passionate about data analytics and business intelligence.
+Fourth-year Economics student at IBA Karachi, passionate about data and financial analytics and business intelligence.
 
-I work with **MySQL**, **Excel** (Power Query & Pivot Tables), **Power BI** and **Python** to turn raw data into clear business insights and interactive dashboards.
+I work with **MySQL**, **Excel**, **Power BI** and **Python** to turn raw data into clear business insights and improve bueinsess decesions.
 
 ---
 
@@ -23,7 +23,7 @@ Analyzed 1,470 employee records to identify attrition drivers. Found overtime em
 
 ## Tools & Skills
 
-`MySQL` `Excel` `Power Query` `Pivot Tables` `Power BI` `DAX` `EDA` `KPI Reporting` `Data Modeling` `Star Schema` `Views` `CTEs` `Python` `Pandas` `NumPy` `Matplotlib` `Git` `GitHub`
+`MySQL` `Excel` `Power Query` `Pivot Tables` `Power BI` `DAX` `EDA` `KPI Reporting` `Financial Analysis` `Financial Modeling` `DCF Valuation` `Ratio Analysis` `CAPM` `WACC` `Data Modeling` `Star Schema` `Views` `CTEs` `Python` `Pandas` `NumPy` `Matplotlib` `Git` `GitHub`
 
 ---
 
