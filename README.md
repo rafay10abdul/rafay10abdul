@@ -2,7 +2,7 @@
 
 Fourth-year Economics student at IBA Karachi, passionate about data and financial analytics and business intelligence.
 
-I work with **MySQL**, **Excel**, **Power BI** and **Python** to turn raw data into clear business insights and improve bueinsess decesions.
+I work with **MySQL**, **Excel**, **Power BI** and **Python** to turn raw data into clear business insights and improve business decesions.
 
 ---
 
